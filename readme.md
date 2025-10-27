@@ -10,9 +10,6 @@ A JetBrains Rider plugin that automatically organizes `.cpp` and `.h` files into
 
 ## Installation
 
-### From JetBrains Marketplace
-*(not planned)*
-
 ### Manual Installation
 1. Download the latest plugin `.zip` file from the releases page
 2. Open your JetBrains IDE (IntelliJ IDEA, CLion, etc.)
