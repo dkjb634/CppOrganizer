@@ -34,3 +34,7 @@ The plugin works automatically once installed:
 - Rider IDE 2025.2 or later
 
 ## Building from Source
+                              
+* Open in IDEA 2025.2:
+ * run the "Run Plugin" task to run the plugin in Rider IDE;
+ * run the "Build Plugin" task to build the plugin .zip under the `build/distributions` directory. .
